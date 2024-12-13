@@ -24,7 +24,7 @@ SpendControl is a lightweight and intuitive expense tracker app designed to help
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/alikssant/SpendMaster.git
 ```
 
 ## Getting started
