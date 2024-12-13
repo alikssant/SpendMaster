@@ -1,6 +1,6 @@
 # SpendMaster - Expense Tracker App
 
-SpendControl is a lightweight and intuitive expense tracker app designed to help you take control of your spending. With a clean and responsive interface.
+SpendMaster is a lightweight and intuitive expense tracker app designed to help you take control of your spending. With a clean and responsive interface.
 
 ## Features
 
